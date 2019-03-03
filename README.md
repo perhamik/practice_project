@@ -39,9 +39,9 @@
 <li>Ferma_v_2_4.ino - версия програмы 2.4 (последння)
 </ul>
 <hr>
-<h2><b align="center">Схема</b></h2>
+<h2 align="center"><b>Схема</b></h2>
 <img src="el_scheme.jpg">
-<h2><b align="center">Подключение:</b></h2>
+<h2 align="center"><b>Подключение:</b></h2>
   <ul type="circle">
     <li>2 пин Arduino - управляющий сигнал (по умолчанию на ножке +5В, замыкая на землю - разрешаем управление)
     <li>3 пин Arduino - отладочная кнопка
